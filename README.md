@@ -35,25 +35,31 @@
 
 Созданы 3 ВМ:
 
+
 ![alt text](image.png)
 
 Создан проект в teamcity на основе forkрепозитория, автоматически определился maven:
+
 
 ![alt text](image-1.png)
 
 Запущена сборка:
 
+
 ![alt text](image-2.png)
 
 Созданы 2 шага - Test и Deploy, запущена сборка:
+
 
 ![alt text](image-4.png)
 
 Результат в Nexus:
 
+
 ![alt text](image-3.png)
 
 Мигрирован build configuration в репозиторий:
+
 
 ![alt text](image-5.png)
 
@@ -61,13 +67,16 @@
 
 Автоматический запуск в новой ветке после внесения изменений в файлы:
 
+
 ![alt text](image-7.png)
 
 Сборка после слияния, отсутствие артефактов:
 
+
 ![alt text](image-8.png)
 
 Jar-файлы в Artifacts после настройки и сборки:
+
 
 ![alt text](image-9.png)
 
